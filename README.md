@@ -45,7 +45,9 @@ COUNTROWS
 * The responses came from Eleven (11) states amongst the Thirty-Six (36) states in Nigeria.
 * The responses from the Eleven (11) states, from the highest to the lowest total number of respondents, were Ekiti, Oyo, Lagos, Osun, Ogun, Enugu, Ondo, Anambra, Edo, FCT (Abuja), and Kaduna States, respectively, and their numbers can be seen via the visual below.
 
+
 <img width="1331" height="768" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/add035b0-1af4-4b06-ae05-b93f79219cea" />
+
 
 * According to the responses, half of the respondents say the food situation has slightly worsened, with 26 people approving this out of the 53 respondents, while 2 respondents say it has been much better.
 * According to the data gathered, the highest response, which was 40%, says that they spend at least 30,000 on food monthly, which is still much for respondents who were mostly students.
