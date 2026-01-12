@@ -29,7 +29,14 @@ The Google Form was centered to be short and important questions, as I did not w
 - Loading to Power Bi followed which caused me to create a single measure - Total Respondents - as the data was mainly a categorical data and just a single column of numerical data 
 - Creating this single measure helped slice it through the other quetsions such as How many meals do you eat per day and literally all the columns as it gave me numerical insights into the numbers of each category in each question or section
 
-### Examples of Measures Used
+### Measure Used
+A single measure was used below through out this analysis :
+
+```dax
+Total Respondents =
+COUNTROWS
+        ('Form Responses 1')
+```
 
 ## Analysis & Key Insights
 
