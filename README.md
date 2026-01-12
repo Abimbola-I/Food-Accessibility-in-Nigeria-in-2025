@@ -40,6 +40,15 @@ COUNTROWS
 
 ## Analysis & Key Insights
 
+- Total Respondents were Fifty-Three(53)
+- The responses came from Eleven(11) states amongst the Thirty-Six(36) states in Nigeria 
+- The responses from the Eleven(11) states from the highest to the lowest total number of respondents were Ekiti, Oyo, Lagos, Osun, Ogun, Enugu, Ondo, Anambra, Edo, FCT(Abuja) and Kaduna States with respectively and their numbers can be seen via the visual below
+
+<img width="1331" height="768" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/add035b0-1af4-4b06-ae05-b93f79219cea" />
+
+- According to the responses half of the repondents says the food situation has slightly worsened with 26 people approving this out of the 53 respondents with 2 respondents sayng it has been much better
+- According to the 
+
 ## Tools Used
 
 - Google Forms
