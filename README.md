@@ -47,7 +47,9 @@ COUNTROWS
 <img width="1331" height="768" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/add035b0-1af4-4b06-ae05-b93f79219cea" />
 
 - According to the responses half of the repondents says the food situation has slightly worsened with 26 people approving this out of the 53 respondents with 2 respondents sayng it has been much better
-- According to the 
+- According to the data gathered the highest responses which was 40% says that they spend at least 30,000 on food monthly which is still much for a respondents who were mostly students 
+- Out the total respondents on 9% of them eat three times daily and 47% of the repondents eat variably which means they might eat just once , twice or thrice or more than thrice 
+- According to the responses 62% suggest a major way to make food accessible is by regulting the price and reducing food inflation 
 
 ## Tools Used
 
@@ -58,15 +60,24 @@ COUNTROWS
 
 ## Challenges & Limitations
 
+- A major challenge I faced was gathering this dat which was why I stated above that "unfortuantely and fortunately" I was able to gather 53 responses but I will lean more into fotunately because many people are usually discoraged to fill Googlr Forms as thry believe it will consist of very lengthy questions, This was the most challenging part of this analysis as I had to personally and persuavively urge people in helping me out in filling the form and even go as far as reducing the questions to just five(5) based on the demands on the mjority who opened attempted the form, so 53 responses was actually good 
+
+- Another challenge I faced will be data cleaning , this was due to the fact that I had to delete 11 reponses because I had a total of 64 reponses but after the first 11 respondents whose data was eventaully deleted I was informed to reduce the questions which eventually got me 53 responses and some other cleaning had to be done with the amounts as a result of spaces and some invisible spaces 
+
+- An obvious limitation is a limted data I strongly believe having more data across the entire 36 states in Nigeria and even more responses from the 11 states I was able to gather would have strengthened my analysis, but I am grateful
+
+- I would admit that demographic data and maybe more personal data and even regions in each of their states would have also gone a longer way, this was one thing I learnt as I began my analysis
+
+
 ## Recommendations
+
+
 
 ## How to View This Project
 
 You can view this project by downloading the file below:
 
 [Food Accessibility in Nigeria in 2025..pdf](https://github.com/user-attachments/files/24331247/Food.Accessibility.in.Nigeria.in.2025.pdf)
-
-## Conclusion
 
 ## About the Analyst
 I leverage data to create impactful solutions that support sustainable growth. I am particularly passionate about driving progressive results in healthcare, especially within public health, and I also have a strong interest in digital health.
