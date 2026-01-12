@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This is a report made to understand the level of food insecurity in Nigeria across 15 states. It provides insights into 
+This is a report made to understand the level of food insecurity in Nigeria across 15 states. Although this analysis was not of the entire population in each of these states but the total respondents from each of these 15 states played an instrumental role in understanding the impact of food insecurity in their states. It provides insights into their average monthly expenses, their individual food situation as compared to last year, the number of meals they eat per day
 
 
 ## Motivation
