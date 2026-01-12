@@ -40,11 +40,12 @@ COUNTROWS
 
 ## Analysis & Key Insights
 
-## Report Pages
-
-[Food Accessibility in Nigeria in 2025..pdf](https://github.com/user-attachments/files/24331247/Food.Accessibility.in.Nigeria.in.2025.pdf)
-
 ## Tools Used
+
+- Google Forms
+- Google Sheets
+- Power Query
+- Power BI
 
 ## Challenges & Limitations
 
@@ -52,8 +53,15 @@ COUNTROWS
 
 ## How to View This Project
 
+You can view this project by downloading the file below:
+
+[Food Accessibility in Nigeria in 2025..pdf](https://github.com/user-attachments/files/24331247/Food.Accessibility.in.Nigeria.in.2025.pdf)
+
 ## Conclusion
 
 ## About the Analyst
+I leverage data to create impactful solutions that support sustainable growth. I am particularly passionate about driving progressive results in healthcare, especially within public health, and I also have a strong interest in digital health.
 
-### You can connect with me on LinkedIn : 
+### You can connect with me on LinkedIn : https://www.linkedin.com/in/rukayat-olanrewajuabimbola/
+
+
