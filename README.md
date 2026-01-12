@@ -71,9 +71,13 @@ COUNTROWS
 
 ## Recommendations
 
-1. Truth to be told when during the process of the gathering and analysis of this data it was to show those at the seats of power to make a change those in the Finance, transportation, agriculture and other related sectors but also to every indidvidual who beleives in the betterment of this country and empathy for those who truly are affected like those in the northern states because we can not continue to wait for our leaders but amongst ourselves we can make a society better in our own little help
+- Truth to be told when during the process of the gathering and analysis of this data it was to show those at the seats of power to make a change those in the Finance, transportation, agriculture and other related sectors but also to every indidvidual who beleives in the betterment of this country and empathy for those who truly are affected like those in the northern states because we can not continue to wait for our leaders but amongst ourselves we can make a society better in our own little help
 
-2. Just as the majority of the responses I strongly support price regulation on the food would go a long way causing food to be more affordable to those who are majorly affected by food inflation, it is sad to even say that in Lgos here I have come across traders who intentionally exploits others even when others are not doinfg te same this is just to say we oursleves wrong ourseleves, we can do better, everyone wants to make profit but we should desist from cheating others for our gain. This is higly linked to one of the suggestted solution stated which is transportation cost reduction by fuel price reduction. I beleive all of these a very interwined and can not be done in a day but awareness like this is important to allow them understand that our leaders can still do better
+- Just as the majority of the responses I strongly support price regulation on the food would go a long way causing food to be more affordable to those who are majorly affected by food inflation, it is sad to even say that in Lgos here I have come across traders who intentionally exploits others even when others are not doinfg te same this is just to say we oursleves wrong ourseleves, we can do better, everyone wants to make profit but we should desist from cheating others for our gain. This is higly linked to one of the suggestted solution stated which is transportation cost reduction by fuel price reduction. I beleive all of these a very interwined and can not be done in a day but awareness like this is important to allow them understand that our leaders can still do better
+
+- It is high time we as Nigerians intentionally invest in agriculture, by doing this it will reduce the cost of importation and individuals in various can communities come together to start farming and also cash transfers supports can be given to those truly in need to make food provided for them in their homes
+
+- By doing all these I believe our monthly expenses spent on food , the number of meals we eat per day and other several factors would change positively 
 
 ## How to View This Project
 
