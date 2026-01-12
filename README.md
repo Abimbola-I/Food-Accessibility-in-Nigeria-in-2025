@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This is a report made to understand the level of food insecurity in Nigeria across 15 states. Although this analysis was not of the entire population in each of these states, the total respondents from each of these 15 states played an instrumental role in understanding the impact of food insecurity in their states. It provides insights into their average monthly expenses, their individual food situation as compared to last year, the number of meals they eat per day, and their suggestions on what will make it easier to access affordable and healthy food in Nigeria.
+This is a report made to understand the level of food insecurity in Nigeria across Fifteen (15) states. Although this analysis was not of the entire population in each of these states, the total respondents from each of these Fifteen (15) states played an instrumental role in understanding the impact of food insecurity in their states. It provides insights into their average monthly expenses, their individual food situation as compared to last year, the number of meals they eat per day, and their suggestions on what will make it easier to access affordable and healthy food in Nigeria.
 
 ## Motivation
 
@@ -49,8 +49,8 @@ COUNTROWS
 <img width="1331" height="768" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/add035b0-1af4-4b06-ae05-b93f79219cea" />
 
 
-* According to the responses, half of the respondents say the food situation has slightly worsened, with 26 people approving this out of the 53 respondents, while 2 respondents say it has been much better.
-* According to the data gathered, the highest response, which was 40%, says that they spend at least 30,000 on food monthly, which is still much for respondents who were mostly students.
+* According to the responses, half of the respondents say the food situation has slightly worsened, with Twenty-Six(26) people approving this out of the 53 respondents, while Two(2) respondents say it has been much better.
+* According to the data gathered, the highest response, which was 40%, says that they spend at least Thirty thousand(30,000) naira on food monthly, which is still much for respondents who were mostly students.
 * Out of the total respondents, only 9% of them eat three times daily, and 47% of the respondents eat variably, which means they might eat just once, twice, thrice, or more than thrice.
 * According to the responses, 62% suggest a major way to make food accessible is by regulating prices and reducing food inflation.
 
@@ -63,11 +63,11 @@ COUNTROWS
 
 ## Challenges & Limitations
 
-* A major challenge I faced was gathering this data, which is why I stated above that "unfortunately and fortunately" I was able to gather 53 responses, but I will lean more into fortunately because many people are usually discouraged from filling Google Forms as they believe it will consist of very lengthy questions. This was the most challenging part of this analysis, as I had to personally and persuasively urge people to help me by filling the form and even go as far as reducing the questions to just five (5) based on the demands of the majority who opened and attempted the form. So, 53 responses was actually good.
+* A major challenge I faced was gathering this data, which is why I stated above that "unfortunately and fortunately" I was able to gather Fifty-Three (53) responses, but I will lean more into fortunately because many people are usually discouraged from filling Google Forms as they believe it will consist of very lengthy questions. This was the most challenging part of this analysis, as I had to personally and persuasively urge people to help me by filling the form and even go as far as reducing the questions to just five (5) based on the demands of the majority who opened and attempted the form. So, Fifty-Three (53) responses was actually good.
 
-* Another challenge I faced was data cleaning. This was due to the fact that I had to delete 11 responses because I had a total of 64 responses, but after the first 11 respondents whose data was eventually deleted, I was informed to reduce the questions, which eventually got me 53 responses. Some other cleaning had to be done with the amounts as a result of spaces and some invisible characters.
+* Another challenge I faced was data cleaning. This was due to the fact that I had to delete Eleven (11) responses because I had a total of Thirty-Six (64) responses, but after the first Eleven (11) respondents whose data was eventually deleted, I was informed to reduce the questions, which eventually got me Fifty-Three (53) responses. Some other cleaning had to be done with the amounts as a result of spaces and some invisible characters.
 
-* An obvious limitation is limited data. I strongly believe having more data across the entire 36 states in Nigeria, and even more responses from the 11 states I was able to gather, would have strengthened my analysis, but I am grateful.
+* An obvious limitation is limited data. I strongly believe having more data across the entire 36 states in Nigeria, and even more responses from the Eleven (11) states I was able to gather, would have strengthened my analysis, but I am grateful.
 
 * I would admit that demographic data, maybe more personal data, and even regions within each state would have also gone a longer way. This was one thing I learnt as I began my analysis.
 
